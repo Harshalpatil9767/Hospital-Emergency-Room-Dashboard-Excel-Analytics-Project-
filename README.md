@@ -5,51 +5,58 @@ The entire workflow followed a systematic process—from business understanding 
 
 
 🔹 Project Purpose
-• Improve operational transparency in the emergency room
+   • Improve operational transparency in the emergency room
 
-• Provide key insights to help stakeholders manage patient flow and service quality
+   • Provide key insights to help stakeholders manage patient flow and service quality
 
-• Enable real-time monitoring of critical performance metrics
+   • Enable real-time monitoring of critical performance metrics
 
 
 🔹 Project Steps
 
-• Business Understanding: Defined objectives and KPIs with a focus on ER performance
-• Data Understanding: Explored raw data including patient demographics, satisfaction, and referral details
-• Power Query: Imported and cleaned data, performed quality checks, and created a calendar table
-• Data Modeling: Built relationships and structured the data using Power Pivot
-• Calculations: Added necessary calculated columns and DAX measures
-• Dashboard Development: Created pivot tables, charts, and slicers to enable dynamic filtering and analysis
-• Design & Layout: Applied clear formatting, color schemes, and labels for better readability
-• Insight Generation: Interpreted trends and summarized key takeaways for decision-making
+   • Business Understanding: Defined objectives and KPIs with a focus on ER performance
+
+   • Data Understanding: Explored raw data including patient demographics, satisfaction, and referral details
+
+   • Power Query: Imported and cleaned data, performed quality checks, and created a calendar table
+
+   • Data Modeling: Built relationships and structured the data using Power Pivot
+
+   • Calculations: Added necessary calculated columns and DAX measures
+
+   • Dashboard Development: Created pivot tables, charts, and slicers to enable dynamic filtering and analysis
+
+   • Design & Layout: Applied clear formatting, color schemes, and labels for better readability
+
+   • Insight Generation: Interpreted trends and summarized key takeaways for decision-making
 
 
 🔹 Tools & Techniques Used
-• Power Query for data cleaning and transformation
+   • Power Query for data cleaning and transformation
 
-• Power Pivot & DAX for data modeling and calculated metrics
+   • Power Pivot & DAX for data modeling and calculated metrics
 
-• Pivot Tables & Charts for data summarization
+   • Pivot Tables & Charts for data summarization
 
-• Slicers & Timelines for dynamic interaction
+   • Slicers & Timelines for dynamic interaction
 
-• Advanced Excel Functions for in-depth analysis and formatting
+   • Advanced Excel Functions for in-depth analysis and formatting
 
 
 🔹 Key Insights (November Snapshot)
-• Total Patients: 464
+   • Total Patients: 464
 
-• Average Wait Time: 35.19 minutes
+   • Average Wait Time: 35.19 minutes
 
-• Patient Satisfaction Score: 5.09 / 10
+   • Patient Satisfaction Score: 5.09 / 10
 
-• Admission Rate: 50%, with 39% experiencing delays
+   • Admission Rate: 50%, with 39% experiencing delays
 
-• Top Referral Department: General Practice
+   • Top Referral Department: General Practice
 
-• Most Frequent Age Group: 30–44 years
+   • Most Frequent Age Group: 30–44 years
 
 
 💡 Impact
-• This project demonstrates the power of Excel as a business intelligence tool in healthcare settings. The dashboard transforms raw ER data into actionable insights, allowing hospital administrators to track performance, reduce delays, and make better service-related decisions.
+   • This project demonstrates the power of Excel as a business intelligence tool in healthcare settings. The dashboard transforms raw ER data into actionable insights, allowing hospital administrators to track      performance, reduce delays, and make better service-related decisions.
 
