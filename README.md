@@ -1,44 +1,56 @@
-# Hospital-Emergency-Room-Dashboard-Excel-Analytics-Project-
-📌 Overview
-This project focuses on analyzing hospital emergency room data using Microsoft Excel, with the goal of uncovering insights related to patient admissions, satisfaction, wait times, and departmental referrals. An interactive dashboard was created to support decision-making and performance monitoring.
+# Hospital-Emergency-Room-Dashboard-Excel-Analytics-Project- 🏥
+This project was developed to improve the efficiency of hospital emergency room operations and provide actionable insights through data visualization. Using Microsoft Excel, I built a dynamic and interactive dashboard that enables stakeholders to monitor, analyze, and make informed decisions related to patient admissions, wait times, satisfaction levels, and departmental referrals. The dashboard simplifies complex data into meaningful visual summaries that support better patient management and service improvement.
 
-🎯 Objectives
-•  Visualize patient trends based on age, gender, and department referrals
+The entire workflow followed a systematic process—from business understanding to dashboard development—showcasing my skills in data preparation, modeling, and visualization within Excel.
 
-•  Track patient admission status, wait times, and satisfaction scores
+🔹 Project Purpose
+• Improve operational transparency in the emergency room
 
-•  Monitor ER efficiency (e.g., timely attendance rate)
+• Provide key insights to help stakeholders manage patient flow and service quality
 
-•  Enable easy monthly comparisons using slicers and filters
+• Enable real-time monitoring of critical performance metrics
 
-📊 Tools & Techniques Used
-•  Power Query for data cleaning and transformation
+🔹 Project Steps
+• Business Understanding: Defined objectives and KPIs with a focus on ER performance
 
-•  Pivot Tables & Pivot Charts for summarization and interactivity
+• Data Understanding: Explored raw data including patient demographics, satisfaction, and referral details
 
-•  Slicers & Timelines for dynamic filtering
+• Power Query: Imported and cleaned data, performed quality checks, and created a calendar table
 
-•  Data Visualization using Excel charts and layout design
+• Data Modeling: Built relationships and structured the data using Power Pivot
 
-•  Advanced Excel Functions for calculated metrics
+• Calculations: Added necessary calculated columns and DAX measures
 
-📁 Key Insights
-•  Total Patients (Nov): 464
+• Dashboard Development: Created pivot tables, charts, and slicers to enable dynamic filtering and analysis
 
-•  Avg. Wait Time: 35.19 mins
+• Design & Layout: Applied clear formatting, color schemes, and labels for better readability
 
-•  Patient Satisfaction Score: 5.09 / 10
+• Insight Generation: Interpreted trends and summarized key takeaways for decision-making
 
-•  50% patients were admitted, with delays in 39% of cases
+🔹 Tools & Techniques Used
+• Power Query for data cleaning and transformation
 
-•  Most common referral: General Practice, followed by Orthopedics
+• Power Pivot & DAX for data modeling and calculated metrics
 
-•  Age group 30-44 had the highest number of ER visits
+• Pivot Tables & Charts for data summarization
 
-📂 Files Included
-•  Hospital_ER_Dashboard.xlsx: Final Excel workbook with dashboard and data
+• Slicers & Timelines for dynamic interaction
 
-•  Dashboard image preview (Hospital Dashboard Final.jpg)
+• Advanced Excel Functions for in-depth analysis and formatting
+
+🔹 Key Insights (November Snapshot)
+• Total Patients: 464
+
+• Average Wait Time: 35.19 minutes
+
+• Patient Satisfaction Score: 5.09 / 10
+
+• Admission Rate: 50%, with 39% experiencing delays
+
+• Top Referral Department: General Practice
+
+• Most Frequent Age Group: 30–44 years
 
 💡 Impact
-•  This project demonstrates how Excel can be effectively used for healthcare data analysis, improving operational transparency and helping stakeholders make data-informed decisions.
+• This project demonstrates the power of Excel as a business intelligence tool in healthcare settings. The dashboard transforms raw ER data into actionable insights, allowing hospital administrators to track performance, reduce delays, and make better service-related decisions.
+
